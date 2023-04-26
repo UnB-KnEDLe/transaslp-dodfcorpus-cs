@@ -1,2 +1,2 @@
-# transaslp-dodfcorpus-cs
+# DODFCorpus-CS Repository
 Repository of the source code
